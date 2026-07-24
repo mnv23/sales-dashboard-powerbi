@@ -23,3 +23,11 @@ Power BI Desktop (data modeling, DAX, report design), Power Query (data cleaning
 ### 📁 Files
 - `uber-rides-dashboard.pbix` – full Power BI project
 - Screenshots of each page
+
+ ## 📸 Screenshots
+
+![Dashboard Page 1](Screenshot%202026-07-24%20121311.png)
+![Dashboard Page 2](Screenshot%202026-07-24%20121355.png)
+![Dashboard Page 3](Screenshot%202026-07-24%20121405.png)
+![Dashboard Page 4](Screenshot%202026-07-24%20121414.png)
+![Dashboard Page 5](Screenshot%202026-07-24%20121424.png)
